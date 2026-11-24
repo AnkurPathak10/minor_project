@@ -1,0 +1,7 @@
+jp_batch_*/
+*_ARCHIVE/
+*_ARCHIVE
+tertiary_structures_pdb/
+~$*.xlsx
+__pycache__/
+*.py[cod]
